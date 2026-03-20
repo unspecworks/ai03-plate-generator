@@ -81,6 +81,10 @@ export function SwitchCutoutPane() {
             <h4>Futaba MA</h4>
             <p>14 x 15 mm</p>
             <p>For Futaba MA mechanical switches.</p>
+            <br />
+            <h4>Cherry MX Stem (Cross)</h4>
+            <p>Approx. 4.1 x 4.1 mm cross</p>
+            <p>Cross-shaped center cutout sized for MX-style stem geometry.</p>
             
         </div>
     )
@@ -162,7 +166,6 @@ export function AboutPane() {
         </div>
     )
 }
-
 
 
 
